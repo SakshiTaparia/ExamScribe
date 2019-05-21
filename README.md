@@ -26,6 +26,16 @@ Webhook (HTTP endpoint) to serve intents and fetch/mutate data from database.
 
 ![](/screenshots/code.png)
 
-
-
 ## Functionality 
+
+#### Sign Up
+
+User needs to provide their unique roll number to proceed.
+
+Phrases like "12", "My roll number is 14", "Roll number 13", etc. can be used. All the phrases corresponding to the same meaning are mapped to the same action as we are using a machine learing model.
+
+#### Reading Instructions
+
+User can command the application to read instructions before starting the exam
+
+Phrases like "Please read the instructions", "what are the instructions", "Read instructions", etc. can be used.
