@@ -1,4 +1,4 @@
-# MyExamScribe
+# MyExamScribe App
 
 MyExamScribe is an effort to address and combat issues related to availability of reliable scribes for visually impaired and handicapped people during examinations. 
 
